@@ -81,7 +81,7 @@ git push -u origin main
 If you cloned this template directly, remove the existing Git history before creating your own first commit:
 
 ```bash
-git clone https://github.com/xKurty06/nextjs-laravel-template.git your-project-name
+git clone https://github.com/zekuuu/nextjs-laravel-template.git your-project-name
 cd your-project-name
 rm -rf .git
 git init
